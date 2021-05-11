@@ -9,4 +9,4 @@ Please refer to the [Lienzo tests README](https://github.com/ahome-it/lienzo-tes
 
 Thanks to the Lienzo team and specially to his author [Dean S. Jones](mailto:deansjones@gmail.com).
 
-De nada
+FUR
